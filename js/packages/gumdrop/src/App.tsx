@@ -20,7 +20,6 @@ import {
 } from "./contexts";
 import { Header } from "./components/Header/Header";
 import { Claim } from "./components/Claim";
-import { Close } from "./components/Close";
 import { Create } from "./components/Create";
 
 const WHITESPACE = "\u00A0";
