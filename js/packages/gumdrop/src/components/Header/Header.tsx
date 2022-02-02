@@ -33,10 +33,6 @@ export const Header = ({ narrow } : { narrow : boolean }) => {
       href: `/gumdrop/claim`,
       inner: "Claim",
     },
-    {
-      href: `/gumdrop/close`,
-      inner: "Close",
-    },
   ];
 
   const [drawerOpen, setDrawerOpen] = React.useState(false);
